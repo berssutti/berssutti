@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernardo Pissutti</h1>
-<h3 align="center">Software Engineering student at UnB</h3>
+<h3 align="center">Software engineering student at UnB</h3>
 
 - 🌱 I’m currently learning **javascript**
 
