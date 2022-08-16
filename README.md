@@ -16,8 +16,8 @@
 
 ---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=berssutti&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="berssutti" width="475">
+<img  src="https://github-readme-stats.vercel.app/api?username=berssutti&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="berssutti" width="358">
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=berssutti&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="berssutti" width="400">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=berssutti&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="berssutti" width="300">
 
 
